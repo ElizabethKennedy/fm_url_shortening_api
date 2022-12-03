@@ -632,6 +632,9 @@ footer {
     align-items: center;
     text-align: center;
     justify-content: center;
+    font-family: 'Cream Cake';
+    font-weight:380px;
+    color: white;
   }
 }
 
